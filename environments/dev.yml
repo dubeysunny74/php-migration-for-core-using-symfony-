@@ -1,0 +1,11 @@
+connection:
+    host:     HOST
+    driver:   mysql
+    port:     3306
+    username: USERNAME
+    password: PASSWORD
+    database: DB NAME
+    charset:  ~
+
+changelog: app_migrations
+
